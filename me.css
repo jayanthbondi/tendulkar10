@@ -1,0 +1,52 @@
+body {
+  overflow-x: hidden;
+}
+.one {
+  background-color: #1abc9c; /* Green */
+  color: #ffffff;
+  position: relative;
+  bottom: -30px;
+}
+.one h3 {
+  position: relative;
+  bottom: -30px;
+}
+.one h2 {
+  position: relative;
+  top: -30px;
+}
+.one1 {
+  height: 250px;
+  width: 250px;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+.two {
+  background-color: #474e5d;
+
+  color: white;
+}
+.three {
+  background-color: #ffffff; /* White */
+  color: #555555;
+}
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+h3 {
+  margin: 0;
+}
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+  color: #1abc9c !important;
+}
